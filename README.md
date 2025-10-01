@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Zehan
 
-<!--
-**zehancoder/zehancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building beautiful and responsive web applications.  
+Recently, I’ve started exploring **MERN Stack** to become a full-stack developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🔭 I’m currently working on **Frontend Projects using React & Tailwind CSS**  
+- 🌱 I’m learning **Node.js, Express.js, and MongoDB (MERN Stack)**  
+- 👯 I’m looking to collaborate on **Open Source Frontend & MERN projects**  
+- ⚡ Fun fact: I love **clean UI design and interactive websites**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
+
+**Backend (Learning):**  
+Node.js, Express.js, MongoDB  
+
+**Tools & Platforms:**  
+Git, GitHub, VSCode, Netlify, Heroku, Postman  
+
+---
+
+## 🌐 Languages & Skills
+
+```text
+HTML5        ██████████ 100%
+CSS3         █████████ 90%
+JavaScript   ██████████ 80%
+React.js     ████████ 80%
+Tailwind CSS █████████ 90%
+
