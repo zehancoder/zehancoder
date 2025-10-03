@@ -1,37 +1,54 @@
-# Hi there 👋, I'm Zehan
+# 👋 Hi, I’m Zehan
 
-I'm a **Frontend Developer** passionate about building beautiful and responsive web applications.  
-Recently, I’ve started exploring **MERN Stack** to become a full-stack developer.
-
----
-
-## 💻 About Me
-- 🔭 I’m currently working on **Frontend Projects using React & Tailwind CSS**  
-- 🌱 I’m learning **Node.js, Express.js, and MongoDB (MERN Stack)**  
-- 👯 I’m looking to collaborate on **Open Source Frontend & MERN projects**  
-- ⚡ Fun fact: I love **clean UI design and interactive websites**
+🎓 I’m a passionate **Frontend Web Developer** with a focus on building responsive and dynamic websites using **React.js**, **JavaScript**, **HTML**, and **CSS**.  
+🚀 Always learning, always building.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools I Use
 
-**Frontend:**  
-HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
-
-**Backend (Learning):**  
-Node.js, Express.js, MongoDB  
-
-**Tools & Platforms:**  
-Git, GitHub, VSCode, Netlify, Heroku, Postman  
+- ⚛️ React.js
+- 📜 JavaScript (ES6+)
+- 🖌️ HTML5, CSS3, Bootstrap, TailwindCSS
+- 🎨 Material UI (MUI)
+- 🧩 Heroicons UI
+- 💾 Git & GitHub
+- 🌐 Netlify / Vercel (Deployment)
 
 ---
 
-## 🌐 Languages & Skills
+## 📂 Notable Projects
 
-```text
-HTML5        ██████████ 100%
-CSS3         █████████ 90%
-JavaScript   ██████████ 80%
-React.js     ████████ 80%
-Tailwind CSS █████████ 90%
+### 🛒 [Daraz Full Clone](https://github.com/zehancoder/Daraz-full-clone)
+An e-commerce site clone built using React.  
+**Features**: Product listing, search functionality, responsive layout.
 
+### 🌍 [Disaster Assignment Project](https://github.com/zehancoder/Disaster-Assignment)
+An assignment focused on disaster awareness using React.js.
+
+### 📝 [Feedback App](https://github.com/zehancoder/feedback-Assignment)
+A feedback collection application using form handling in React.
+
+(✅ More projects available in my repositories...)
+
+---
+
+## 📈 GitHub Stats
+
+![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehancoder&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: zehanjh93@gmail.com
+- 🌐 Portfolio Website: (if available)
+- 💼 LinkedIn: https://www.linkedin.com/in/jonaeed-hossen-a92a62330/
+
+---
+
+🧠 **Learning Never Stops!**  
+Currently improving my backend skills with Node.js & MongoDB.
+
+Thanks for visiting! 🌟
+                                                                                                                                                                                                        
