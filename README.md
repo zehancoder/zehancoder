@@ -37,6 +37,10 @@ A feedback collection application using form handling in React.
 
 ![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehancoder&show_icons=true&theme=radical)
 
+<a href="https://linktr.ee/zehancoder" target="_blank">
+  <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+</a>
+
 ---
 
 ## 📫 Contact Me
