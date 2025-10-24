@@ -8,6 +8,7 @@
 ## 🛠️ Technologies & Tools I Use
 
 - ⚛️ React.js
+- 🧠 Redux Toolkit
 - 📜 JavaScript (ES6+)
 - 🖌️ HTML5, CSS3, Bootstrap, TailwindCSS
 - 🎨 Material UI (MUI)
