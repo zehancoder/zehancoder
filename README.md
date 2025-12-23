@@ -20,11 +20,11 @@
 
 ## 📂 Notable Projects
 
-### 🛒 [Daraz Full Clone](https://github.com/zehancoder/Daraz-full-clone)
+### 🛒 [Movie Hunter]([https://github.com/zehancoder/Daraz-full-clone](https://moviehunting12.netlify.app/))
 An e-commerce site clone built using React.  
 **Features**: Product listing, search functionality, responsive layout.
 
-### 🌍 [Disaster Assignment Project](https://github.com/zehancoder/Disaster-Assignment)
+### 🌍 [Productivity Dashboard]([https://github.com/zehancoder/Disaster-Assignment](https://zehancoder.github.io/Productivity-Dashboard/](https://zehancoder.github.io/Productivity-Dashboard/))
 An assignment focused on disaster awareness using React.js.
 
 ### 📝 [Feedback App](https://github.com/zehancoder/feedback-Assignment)
