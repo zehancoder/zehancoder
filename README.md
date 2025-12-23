@@ -24,7 +24,7 @@
 An e-commerce site clone built using React.  
 **Features**: Product listing, search functionality, responsive layout.
 
-### 🌍 Productivity Dashboard: https://zehancoder.github.io/Productivity-Dashboard/](https://zehancoder.github.io/Productivity-Dashboard/
+### 🌍 Productivity Dashboard: https://zehancoder.github.io/Productivity-Dashboard/
 An assignment focused on disaster awareness using React.js.
 
 ### 📝 Feedback App: https://github.com/zehancoder/feedback-Assignment
