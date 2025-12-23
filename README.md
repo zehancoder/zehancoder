@@ -20,14 +20,14 @@
 
 ## 📂 Notable Projects
 
-### 🛒 [Movie Hunter]([https://github.com/zehancoder/Daraz-full-clone](https://moviehunting12.netlify.app/))
+### 🛒 Movie Hunter: https://github.com/zehancoder/Daraz-full-clone](https://moviehunting12.netlify.app/
 An e-commerce site clone built using React.  
 **Features**: Product listing, search functionality, responsive layout.
 
-### 🌍 [Productivity Dashboard]([https://github.com/zehancoder/Disaster-Assignment](https://zehancoder.github.io/Productivity-Dashboard/](https://zehancoder.github.io/Productivity-Dashboard/))
+### 🌍 Productivity Dashboard: https://github.com/zehancoder/Disaster-Assignment](https://zehancoder.github.io/Productivity-Dashboard/](https://zehancoder.github.io/Productivity-Dashboard/
 An assignment focused on disaster awareness using React.js.
 
-### 📝 [Feedback App](https://github.com/zehancoder/feedback-Assignment)
+### 📝 Feedback App: https://github.com/zehancoder/feedback-Assignment
 A feedback collection application using form handling in React.
 
 (✅ More projects available in my repositories...)
@@ -36,7 +36,7 @@ A feedback collection application using form handling in React.
 
 ## 📈 GitHub Stats
 
-![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehancoder&show_icons=true&theme=radical)
+!Zehan's GitHub stats: (https://github-readme-stats.vercel.app/api?username=zehancoder&show_icons=true&theme=radical)
 
 <a href="https://linktr.ee/zehancoder" target="_blank">
   <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
