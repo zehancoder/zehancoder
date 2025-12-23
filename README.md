@@ -20,12 +20,19 @@
 
 ## 📂 Notable Projects
 
-### 🛒 Movie Hunter: https://github.com/zehancoder/Daraz-full-clone](https://moviehunting12.netlify.app/
-An e-commerce site clone built using React.  
-**Features**: Product listing, search functionality, responsive layout.
+### 🛒 Movie Hunter: https://moviehunting12.netlify.app/
+Key Features:
+Fetches real movie data using TMDB REST API
+Built with React.js & Tailwind CSS for a responsive, clean UI
+Uses GSAP for engaging scroll & element animations
+Managed global state with Redux Toolkit
+Integrated Firebase Authentication for secure user login/signup
+This project helped me strengthen my understanding of API integration,
+Like & Save System — users can like and save their favorite movies
+users can instantly search for movies by title, making browsing easier and faster
 
 ### 🌍 Productivity Dashboard: https://zehancoder.github.io/Productivity-Dashboard/
-An assignment focused on disaster awareness using React.js.
+A productivity dashboard designed to help users organize daily tasks, manage schedules, and track completed work efficiently. Built with a focus on clean UI, smooth UX, and practical task management features.
 
 ### 📝 Feedback App: https://github.com/zehancoder/feedback-Assignment
 A feedback collection application using form handling in React.
