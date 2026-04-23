@@ -8,8 +8,10 @@
 ## 🛠️ Technologies & Tools I Use
 
 - ⚛️ React.js
+- ▶ Next.js
 - 🧠 Redux Toolkit
 - 📜 JavaScript (ES6+)
+- 🟦 TypeScript
 - 🖌️ HTML5, CSS3, Bootstrap, TailwindCSS
 - 🎨 Material UI (MUI)
 - 🧩 Heroicons UI
